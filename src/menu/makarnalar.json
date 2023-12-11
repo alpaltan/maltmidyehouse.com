@@ -1,0 +1,32 @@
+[
+  {
+    "urun": "Alfredo",
+    "aciklama": "Tavuklu Mantarlı kremalı",
+    "fiyat": "135TL"
+  },
+  {
+    "urun": "Bolonez Soslu Makarna",
+    "aciklama": "",
+    "fiyat": "140TL"
+  },
+  {
+    "urun": "Kremalı Mantarlı Makarna",
+    "aciklama": "",
+    "fiyat": "130TL"
+  },
+  {
+    "urun": "Napoliten Soslu Makarna",
+    "aciklama": "",
+    "fiyat": "130TL"
+  },
+  {
+    "urun": "Arabiatta Makarna",
+    "aciklama": "",
+    "fiyat": "135TL"
+  },
+  {
+    "urun": "Köri Soslu Makarna",
+    "aciklama": "",
+    "fiyat": "135TL"
+  }
+]

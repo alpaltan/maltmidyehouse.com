@@ -1,0 +1,9 @@
+@font-face {
+  font-family: ubuntu;
+  src: url("./fonts/Ubuntu-Regular.ttf");
+}
+
+@font-face {
+  font-family: helvetica;
+  src: url("./fonts/HelveticaNeueMedium.ttf");
+}

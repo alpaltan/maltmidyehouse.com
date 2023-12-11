@@ -1,0 +1,82 @@
+[
+  {
+    "urun": "Long Island",
+    "aciklama": "Gin Rom Votka Tekila Portakal Likörü Kola",
+    "fiyat": "250TL"
+  },
+  {
+    "urun": "Mojito",
+    "aciklama": "Rom Lime Şeker Nane Soda",
+    "fiyat": "160TL"
+  },
+  {
+    "urun": "Lynchburg",
+    "aciklama": "Jack Daniels Portakal Likörü Sour Mix Lime Soda",
+    "fiyat": "180TL"
+  },
+  {
+    "urun": "Margarita",
+    "aciklama": "Tekila Portakal Likörü Limon",
+    "fiyat": "160TL"
+  },
+  {
+    "urun": "Black Russian",
+    "aciklama": "Votka Kahlua",
+    "fiyat": "180TL"
+  },
+  {
+    "urun": "White Russian",
+    "aciklama": "Votka Kahlua Krema veya Süt",
+    "fiyat": "180TL"
+  },
+  {
+    "urun": "Cosmopolitan",
+    "aciklama": "Votka Cointreau Lime Kızılcık Suyu",
+    "fiyat": "180TL"
+  },
+  {
+    "urun": "Gin Fizz",
+    "aciklama": "Gin Limon Soda",
+    "fiyat": "120TL"
+  },
+  {
+    "urun": "Gin Tonic",
+    "aciklama": "Gin Tonic Limon",
+    "fiyat": "120TL"
+  },
+  {
+    "urun": "Sex on the Beach",
+    "aciklama": "",
+    "fiyat": "160Tl"
+  },
+  {
+    "urun": "Meyve Kokteyl(alkolsüz)",
+    "aciklama": "",
+    "fiyat": "100TL"
+  },
+  {
+    "urun": "Bacardi Shot",
+    "aciklama": "",
+    "fiyat": "75TL"
+  },
+  {
+    "urun": "Bacardi Kola",
+    "aciklama": "",
+    "fiyat": "160TL"
+  },
+  {
+    "urun": "Meyve Kokteyl (alkollü)",
+    "aciklama": "",
+    "fiyat": "150TL"
+  },
+  {
+    "urun": "Tekila Shot",
+    "aciklama": "",
+    "fiyat": "75TL"
+  },
+  {
+    "urun": "Jager Shot",
+    "aciklama": "",
+    "fiyat": "75TL"
+  }
+]

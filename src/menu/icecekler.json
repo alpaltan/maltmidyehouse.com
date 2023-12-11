@@ -1,0 +1,87 @@
+[
+    {
+        "urun": "Kutu Kola",
+        "aciklama": "",
+        "fiyat": "30TL"
+    },
+    {
+        "urun": "Fanta",
+        "aciklama": "",
+        "fiyat": "30TL"
+    },
+    {
+        "urun": "Sprite",
+        "aciklama": "",
+        "fiyat": "30TL"
+    },
+    {
+        "urun": "Meyve Suyu",
+        "aciklama": "",
+        "fiyat": "30TL"
+    },
+    {
+        "urun": "Ice Tea",
+        "aciklama": "",
+        "fiyat": "30TL"
+    },
+    {
+        "urun": "Sade Soda",
+        "aciklama": "",
+        "fiyat": "25TL"
+    },
+    {
+        "urun": "Nescafe",
+        "aciklama": "",
+        "fiyat": "30TL"
+    },
+    {
+        "urun": "Türk Kahvesi",
+        "aciklama": "",
+        "fiyat": "25TL"
+    },
+    {
+        "urun": "Tonik",
+        "aciklama": "",
+        "fiyat": "40TL"
+    },
+    {
+        "urun": "Churchill",
+        "aciklama": "",
+        "fiyat": "40TL"
+    },
+    {
+        "urun": "Espresso",
+        "aciklama": "",
+        "fiyat": "50TL"
+    },
+    {
+        "urun": "Americano",
+        "aciklama": "",
+        "fiyat": "70TL"
+    },
+    {
+        "urun": "Latte",
+        "aciklama": "",
+        "fiyat": "70TL"
+    },
+    {
+        "urun": "Cappucino",
+        "aciklama": "",
+        "fiyat": "70TL"
+    },
+    {
+        "urun": "Sıcak Çikolata",
+        "aciklama": "",
+        "fiyat": "70TL"
+    },
+    {
+        "urun": "Su",
+        "aciklama": "",
+        "fiyat": "20TL"
+    },
+    {
+        "urun": "Çay",
+        "aciklama": "",
+        "fiyat": "12TL"
+    }
+]

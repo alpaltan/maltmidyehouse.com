@@ -1,0 +1,67 @@
+[
+    {
+        "urun": "Fıstık",
+        "aciklama": "",
+        "fiyat": "50TL"
+    },
+    {
+        "urun": "Karışık Lüx Çerez",
+        "aciklama": "",
+        "fiyat": "60TL"
+    },
+    {
+        "urun": "Kalamar",
+        "aciklama": "",
+        "fiyat": "230TL"
+    },
+    {
+        "urun": "Kiremitte Jumbo Karides",
+        "aciklama": "",
+        "fiyat": "220TL"
+    },
+    {
+        "urun": "Malt Mix 2 kişilik",
+        "aciklama": "2 sosis 2 nugget 2 soğan halkası 2 sigara böğreği ve patates eşliğinde",
+        "fiyat": "150TL"
+    },
+    {
+        "urun": "Kokteyl Tabağı",
+        "aciklama": "patates üstüne 4 adet sosis",
+        "fiyat": "120TL"
+    },
+    {
+        "urun": "Midye Tava",
+        "aciklama": "Tarator sos ve salata",
+        "fiyat": "135TL"
+    },
+    {
+        "urun": "Parmak Patates",
+        "aciklama": "",
+        "fiyat": "90TL"
+    },
+    {
+        "urun": "Soğan Halkası",
+        "aciklama": "",
+        "fiyat": "90TL"
+    },
+    {
+        "urun": "Elma Dilim Patates",
+        "aciklama": "",
+        "fiyat": "90TL"
+    },
+    {
+        "urun": "Çıtır Tavuk",
+        "aciklama": "",
+        "fiyat": "120TL"
+    },
+    {
+        "urun": "Sigara Böreği",
+        "aciklama": "",
+        "fiyat": "90TL"
+    },
+    {
+        "urun": "Nugget",
+        "aciklama": "",
+        "fiyat": "90TL"
+    }
+]
